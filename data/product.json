@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Cotton T-Shirt",
+    "category": "Clothing",
+    "description": "Made from 100% organic cotton, sustainable and soft.",
+    "keywords": ["organic", "sustainable", "clothing"]
+  },
+  {
+    "id": 2,
+    "name": "Bamboo Toothbrush",
+    "category": "Personal Care",
+    "description": "Biodegradable toothbrush made from bamboo.",
+    "keywords": ["bamboo", "eco-friendly", "personal care"]
+  },
+  {
+    "id": 3,
+    "name": "Reusable Stainless Steel Straw",
+    "category": "Home Goods",
+    "description": "Durable straw to reduce plastic waste.",
+    "keywords": ["reusable", "stainless steel", "home goods"]
+  }
+]
