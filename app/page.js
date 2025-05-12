@@ -28,7 +28,7 @@ export default function Home() {
     setError(error.message);
     setResults([]);
   }
-};
+}; 
 
   return (
     <div className={styles.container}>
